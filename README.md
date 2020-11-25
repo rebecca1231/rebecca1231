@@ -17,7 +17,7 @@
 
  ### Some Technology and Tools I'm comfortable with:
  
-[<img src="https://simpleicons.org/icons/javascript.svg" width="15"/>](https://simpleicons.org/icons/javascript.svg) JavaScript   [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="15"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS   [<img src="https://simpleicons.org/icons/react.svg" width="15"/>](https://simpleicons.org/icons/react.svg) React     
+[<img src="https://simpleicons.org/icons/javascript.svg" width="15"/>](https://simpleicons.org/icons/javascript.svg) JavaScript &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="15"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS   [<img src="https://simpleicons.org/icons/react.svg" width="15"/>](https://simpleicons.org/icons/react.svg) React     
 
 [<img src="https://simpleicons.org/icons/html5.svg" width="15"/>](https://simpleicons.org/icons/html5.svg) HTML   [<img src="https://simpleicons.org/icons/css3.svg" width="15"/>](https://simpleicons.org/icons/css3.svg) CSS   [<img src="https://simpleicons.org/icons/git.svg" width="15"/>](https://simpleicons.org/icons/git.svg) Git
 
