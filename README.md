@@ -2,9 +2,9 @@
 
 😄 I'm Rebecca
 
-- Pronouns... she/her
+- 👯 Pronouns... she/her
 
-- 🌱 I’m currently working on... my blogging site.
+- 🌱 I’m currently working on... refactoring Opine!
 
 - 🤔 I’m looking for help with ... landing a new engineering role
 
