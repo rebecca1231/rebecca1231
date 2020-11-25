@@ -22,7 +22,7 @@
 [<img src="https://simpleicons.org/icons/html5.svg" width="15"/>](https://simpleicons.org/icons/html5.svg) HTML  &nbsp; &nbsp; &nbsp;   [<img src="https://simpleicons.org/icons/css3.svg" width="15"/>](https://simpleicons.org/icons/css3.svg) CSS   &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/mongodb.svg" width="15"/>](https://simpleicons.org/icons/mongodb.svg) MongoDB
 
 
-[<img src="https://simpleicons.org/icons/graphql.svg" width="15"/>](https://simpleicons.org/icons/graphql.svg) GraphQL   &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/apollographql.svg" width="15"/>](https://simpleicons.org/icons/apollographql.svg) Apollo Server   &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/git.svg" width="15"/>](https://simpleicons.org/icons/git.svg) Git
+[<img src="https://simpleicons.org/icons/graphql.svg" width="15"/>](https://simpleicons.org/icons/graphql.svg) GraphQL   &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/apollographql.svg" width="15"/>](https://simpleicons.org/icons/apollographql.svg) Apollo   &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/git.svg" width="15"/>](https://simpleicons.org/icons/git.svg) Git
 
 
 [<img src="https://simpleicons.org/icons/d3-dot-js.svg" width="15"/>](https://simpleicons.org/icons/d3-dot-js.svg) D3.js  &nbsp; &nbsp; &nbsp;   [<img src="https://simpleicons.org/icons/jest.svg" width="15"/>](https://simpleicons.org/icons/jest.svg) Jest  &nbsp; &nbsp; &nbsp;   [<img src="https://simpleicons.org/icons/mocha.svg" width="15"/>](https://simpleicons.org/icons/mocha.svg) Mocha
