@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi,
 
-😄 I'm Rebecca
+😊 I'm Rebecca
 
-- 👯 Pronouns... she/her
+
+
+- 👱🏻‍♀️ Pronouns... she/her
 
 - 🌱 I’m currently working on... refactoring Opine!
 
