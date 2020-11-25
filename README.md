@@ -16,13 +16,13 @@
 ---
 
 Tech Skills Overview
-[<img src="https://simpleicons.org/icons/git.svg" width="50"/>](https://simpleicons.org/icons/git.svg)
 
-JavaScript
-- NodeJS
-- React
-- HTML
-- CSS
+[<img src="https://simpleicons.org/icons/javascript.svg" width="20"/>](https://simpleicons.org/icons/javascript.svg) JavaScript
+[<img src="https://simpleicons.org/icons/node-dot-js.svg" width="25"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS
+[<img src="https://simpleicons.org/icons/react.svg" width="30"/>](https://simpleicons.org/icons/react.svg) React
+[<img src="https://simpleicons.org/icons/html5.svg" width="30"/>](https://simpleicons.org/icons/html5.svg) HTML
+[<img src="https://simpleicons.org/icons/css3.svg" width="30"/>](https://simpleicons.org/icons/css3.svg) CSS
+[<img src="https://simpleicons.org/icons/git.svg" width="30"/>](https://simpleicons.org/icons/git.svg) Git
 
 
 <!--
