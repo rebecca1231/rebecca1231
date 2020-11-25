@@ -10,7 +10,7 @@
 
 - 🤔 I’m looking for help with ... landing my first engineering role!
 
-- 💬 My motto...  Dream it, believe it, build it. 
+
 
 
 ---
@@ -28,7 +28,7 @@ Tech Skills Overview
 **rebecca1231/rebecca1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ... 
 - 📫 How to reach me: ...
-
+- 💬 My motto...  Dream it, believe it, build it. 
 
 - ⚡ Fun fact: ... 
 
