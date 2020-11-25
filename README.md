@@ -16,8 +16,7 @@
 ---
 
 Tech Skills Overview
-<img src="https://simpleicons.org/icons/git.svg" width="50px")/>
-![JS](https://simpleicons.org/icons/git.svg =100x) 
+![JS](https://simpleicons.org/icons/git.svg) {:height="36px" width="36px"}
 JavaScript
 - NodeJS
 - React
