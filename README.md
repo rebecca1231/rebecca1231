@@ -17,9 +17,7 @@
 
 Tech Skills Overview
 
-[<img src="https://simpleicons.org/icons/javascript.svg" width="20"/>](https://simpleicons.org/icons/javascript.svg) JavaScript   
- [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="20"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS    
- [<img src="https://simpleicons.org/icons/react.svg" width="20"/>](https://simpleicons.org/icons/react.svg) React     
+[<img src="https://simpleicons.org/icons/javascript.svg" width="20"/>](https://simpleicons.org/icons/javascript.svg) JavaScript | [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="20"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS | [<img src="https://simpleicons.org/icons/react.svg" width="20"/>](https://simpleicons.org/icons/react.svg) React     
 
 [<img src="https://simpleicons.org/icons/html5.svg" width="20"/>](https://simpleicons.org/icons/html5.svg) HTML
 
