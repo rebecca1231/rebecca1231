@@ -6,9 +6,9 @@
 
 - 👱🏻‍♀️ Pronouns... she/her
 
-- 🌱 I’m currently working on... refactoring Opine!
+- 🌱 I’m currently working on... [Opine!](https://github.com/rebecca1231/Opine)...  refactoring and testing!
 
-- 🤔 I’m looking for help with ... landing a new engineering role
+- 🤔 I’m looking for help with ... landing my first engineering role!
 
 - 💬 My motto...  Dream it, believe it, build it. 
 
@@ -17,7 +17,7 @@
 
 Tech Skills Overview
 
-- JavaScript
+![JS](https://simpleicons.org/icons/git.svg) JavaScript
 - NodeJS
 - React
 - HTML
