@@ -17,7 +17,7 @@
 
 Tech Skills Overview
 
-![JS](https://simpleicons.org/icons/git.svg) JavaScript
+![JS](https://simpleicons.org/icons/git.svg =100x) JavaScript
 - NodeJS
 - React
 - HTML
