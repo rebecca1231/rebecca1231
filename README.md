@@ -16,7 +16,7 @@
 ---
 
 Tech Skills Overview
-[<img src="https://simpleicons.org/icons/git.svg" width="250"/>](https://simpleicons.org/icons/git.svg)
+[<img src="https://simpleicons.org/icons/git.svg" width="50"/>](https://simpleicons.org/icons/git.svg)
 
 JavaScript
 - NodeJS
