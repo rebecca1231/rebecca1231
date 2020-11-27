@@ -29,7 +29,6 @@
 
 👩🏼‍💻 Learning more about: 
 
- &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/postgresql.svg" width="15"/>](https://simpleicons.org/icons/postgresql.svg) Postgre
   &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress
 
 
@@ -41,5 +40,7 @@
 - 💬 My motto...  Dream it, believe it, build it. 
 
 - ⚡ Fun fact: ... 
+
+ &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/postgresql.svg" width="15"/>](https://simpleicons.org/icons/postgresql.svg) PostgreSQL
 
 -->
