@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on... [Opine!](https://github.com/rebecca1231/Opine)...  refactoring and testing!
 
-- 🤔 I’m looking for help with ... landing my first engineering role!
+- 🤔 I’m looking for help with ... learning some C#!
 
 ---
 
@@ -30,6 +30,10 @@
 👩🏼‍💻 Learning more about: 
 
   &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress
+    &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/vue-dot-js.svg) Vue
+
+
+  
 
 
 
