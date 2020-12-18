@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on... [Opine!](https://github.com/rebecca1231/Opine)...  refactoring and testing!
 
-- 🤔 I’m looking for help with ... learning some C#!
+- 💬 My motto...  Dream it, believe it, build it. 
 
 ---
 
@@ -30,7 +30,7 @@
 👩🏼‍💻 Learning more about: 
 
   &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress
-    &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/vue-dot-js.svg) Vue
+    &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/vue-dot-js.svg" width="15"/>](https://simpleicons.org/icons/vue-dot-js.svg) Vue
 
 
   
@@ -42,6 +42,8 @@
 - 👯 I’m looking to collaborate on ... 
 - 📫 How to reach me: ...
 - 💬 My motto...  Dream it, believe it, build it. 
+- 🤔 I’m looking for help with ... learning some Vue.
+
 
 - ⚡ Fun fact: ... 
 
