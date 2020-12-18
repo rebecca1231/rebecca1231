@@ -12,7 +12,7 @@
 
  ### My Tech:
  
-<span style="color:blue"'>[<img src="https://simpleicons.org/icons/javascript.svg" width="15"/>](https://simpleicons.org/icons/javascript.svg) </span>JavaScript &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="15"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS  &nbsp; &nbsp; &nbsp;   [<img src="https://simpleicons.org/icons/react.svg" width="15"/>](https://simpleicons.org/icons/react.svg) React     
+<span style="color:blue">[<img src="https://simpleicons.org/icons/javascript.svg" width="15"/>](https://simpleicons.org/icons/javascript.svg) </span>JavaScript &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/node-dot-js.svg" width="15"/>](https://simpleicons.org/icons/node-dot-js.svg) NodeJS  &nbsp; &nbsp; &nbsp;   [<img src="https://simpleicons.org/icons/react.svg" width="15"/>](https://simpleicons.org/icons/react.svg) React     
 
 [<img src="https://simpleicons.org/icons/html5.svg" width="15"/>](https://simpleicons.org/icons/html5.svg) HTML  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/css3.svg" width="15"/>](https://simpleicons.org/icons/css3.svg) CSS   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/mongodb.svg" width="15"/>](https://simpleicons.org/icons/mongodb.svg) MongoDB
 
