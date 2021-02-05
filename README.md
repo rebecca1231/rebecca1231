@@ -4,7 +4,7 @@
 
 - 👱🏻‍♀️ Pronouns... she/her
 
-- 🌱 I’m currently working on... [Opine!](https://github.com/rebecca1231/Opine)...  refactoring and testing!
+- 🌱 I’m currently working on... learning more about Vue.  
 
 - 💬 My motto...  Dream it, believe it, build it. 
 
@@ -48,5 +48,7 @@
 - ⚡ Fun fact: ... 
 
  &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/postgresql.svg" width="15"/>](https://simpleicons.org/icons/postgresql.svg) PostgreSQL
+
+[Opine!](https://github.com/rebecca1231/Opine)...  refactoring and testing!
 
 -->
