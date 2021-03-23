@@ -2,11 +2,11 @@
 
 😊 I'm Rebecca
 
-- 👱🏻‍♀️ Pronouns... she/her
+- 👱🏻‍♀️ Pronouns: she/her
 
-- 🌱 I’m currently working on... learning more about Vue.  
+- 🌱 I’m currently learning more about Vue.  
 
-- 💬 My motto...  Dream it, believe it, build it. 
+- 🤗 I hope you'll check out [my blog](https://blog.rebeccahirai.com)
 
 ---
 
