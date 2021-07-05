@@ -25,7 +25,7 @@
 [<img src="https://simpleicons.org/icons/gatsby.svg" width="15"/>](https://simpleicons.org/icons/gatsby.svg) Gatsby &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/redux.svg" width="15"/>](https://simpleicons.org/icons/redux.svg) Redux &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/strapi.svg" width="15"/>](https://simpleicons.org/icons/strapi.svg) Strapi 
 
 
-[<img src="https://simpleicons.org/icons/sass.svg" width="15"/>](https://simpleicons.org/icons/sass.svg) Sass   &nbsp;  &nbsp;  &nbsp;  &nbsp;
+[<img src="https://simpleicons.org/icons/sass.svg" width="15"/>](https://simpleicons.org/icons/sass.svg) Sass   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
       &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/vue-dot-js.svg" width="15"/>](https://simpleicons.org/icons/vue-dot-js.svg) Vue &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
       [<img src="https://simpleicons.org/icons/styled-components.svg" width="15"/>](https://simpleicons.org/icons/styled-components.svg) Styled Components  
 
