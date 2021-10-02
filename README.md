@@ -4,9 +4,11 @@
 
 - 👱🏻‍♀️ Pronouns: she/her
 
-- 🌱 I’m currently learning more about Vue.  
+- 🌱 I’m currently learning more about C#.  
 
 - 🤗 I hope you'll check out [my blog](https://blog.rebeccahirai.com)
+
+- 🍪 I'm currently working in Vue and C# 
 
 ---
 
@@ -30,9 +32,15 @@
       [<img src="https://simpleicons.org/icons/styled-components.svg" width="15"/>](https://simpleicons.org/icons/styled-components.svg) Styled Components  
 
 
-👩🏼‍💻 Learning more about: 
+👩🏼‍💻 I like testing with: 
 
   &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress
+
+👩🏼‍💻 I'm learning more about:
+
+&nbsp; &nbsp; &nbsp; C#, Dotnet, Entity Framework
+
+
 
 
   
