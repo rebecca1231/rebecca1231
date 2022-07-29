@@ -4,11 +4,13 @@
 
 - 👱🏻‍♀️ Pronouns: she/her
 
-- 🌱 I’m currently learning more about C#.  
+- 🌱 I’m currently learning more about TypeScript.  
 
 - 🤗 I hope you'll check out [my blog](https://blog.rebeccahirai.com)
 
-- 🍪 I'm currently working in Vue and C# 
+- 🍪 I'm currently working in Vue 3 and C# .NET
+
+- 😅 WIP: updating my website
 
 ---
 
@@ -38,7 +40,7 @@
 
 👩🏼‍💻 I'm learning more about:
 
-&nbsp; &nbsp; &nbsp; C#, Dotnet, Entity Framework
+&nbsp; &nbsp; &nbsp; TypeScript 
 
 
 
