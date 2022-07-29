@@ -24,23 +24,14 @@
 [<img src="https://simpleicons.org/icons/graphql.svg" width="15"/>](https://simpleicons.org/icons/graphql.svg) GraphQL   &nbsp; &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/apollographql.svg" width="15"/>](https://simpleicons.org/icons/apollographql.svg) Apollo   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/git.svg" width="15"/>](https://simpleicons.org/icons/git.svg) Git
 
 
-[<img src="https://simpleicons.org/icons/d3-dot-js.svg" width="15"/>](https://simpleicons.org/icons/d3-dot-js.svg) D3.js  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; [<img src="https://simpleicons.org/icons/jest.svg" width="15"/>](https://simpleicons.org/icons/jest.svg) Jest  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/mocha.svg" width="15"/>](https://simpleicons.org/icons/mocha.svg) Mocha
+[<img src="https://simpleicons.org/icons/d3-dot-js.svg" width="15"/>](https://simpleicons.org/icons/d3dotjs.svg) D3.js  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; [<img src="https://simpleicons.org/icons/jest.svg" width="15"/>](https://simpleicons.org/icons/vuedotjs.svg) Vue  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  [<img src="https://simpleicons.org/icons/mocha.svg" width="15"/>](https://simpleicons.org/icons/vite.svg) Vite
 
-[<img src="https://simpleicons.org/icons/gatsby.svg" width="15"/>](https://simpleicons.org/icons/gatsby.svg) Gatsby &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/redux.svg" width="15"/>](https://simpleicons.org/icons/redux.svg) Redux &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/strapi.svg" width="15"/>](https://simpleicons.org/icons/strapi.svg) Strapi 
+[<img src="https://simpleicons.org/icons/gatsby.svg" width="15"/>](https://simpleicons.org/icons/gatsby.svg) Gatsby &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/redux.svg" width="15"/>](https://simpleicons.org/icons/redux.svg) Redux &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; [<img src="https://simpleicons.org/icons/strapi.svg" width="15"/>](https://simpleicons.org/icons/dotnet.svg) .NET 
 
 
 [<img src="https://simpleicons.org/icons/sass.svg" width="15"/>](https://simpleicons.org/icons/sass.svg) Sass   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
-      &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/vue-dot-js.svg" width="15"/>](https://simpleicons.org/icons/vue-dot-js.svg) Vue &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
-      [<img src="https://simpleicons.org/icons/styled-components.svg" width="15"/>](https://simpleicons.org/icons/styled-components.svg) Styled Components  
-
-
-👩🏼‍💻 I like testing with: 
-
-  &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress
-
-👩🏼‍💻 I'm learning more about:
-
-&nbsp; &nbsp; &nbsp; TypeScript 
+      &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/vue-dot-js.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
+      [<img src="https://simpleicons.org/icons/styled-components.svg" width="15"/>](https://simpleicons.org/icons/styledcomponents.svg) Styled Components  
 
 
 
