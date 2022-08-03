@@ -1,8 +1,9 @@
-😊 Hi, I'm a software engineer, currently working in C#/.NET and JavaScript/Vue3.  I'm learning more about TypeScript and starting to type out the front end to improve the reliability, maintainability, and developer experience.  
+😊 Hi, I'm a software engineer, currently working in C#/.NET and JavaScript/Vue3.  I'm learning more about TypeScript and starting to integrate it into the frontend to improve the reliability, maintainability, and developer experience.  
 
-- 🤗 I hope you'll check out [my blog](https://blog.rebeccahirai.com)
-I write about things I've learned along the way when I have time.  
+🤗 I hope you'll check out [my blog](https://blog.rebeccahirai.com) where I write about things I've learned along the way.  
 
+I often use JavaScript with React, Gatsby, Vue, GraphQL, Node, Apollo, D3.  
+<!-- 
 ---
 
  ### My Tech:
@@ -22,3 +23,4 @@ I write about things I've learned along the way when I have time.
 [<img src="https://simpleicons.org/icons/sass.svg" width="15"/>](https://simpleicons.org/icons/sass.svg) Sass   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;
       &nbsp; &nbsp; &nbsp;[<img src="https://simpleicons.org/icons/cypress.svg" width="15"/>](https://simpleicons.org/icons/cypress.svg) Cypress &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; 
       [<img src="https://simpleicons.org/icons/styledcomponents.svg" width="15"/>](https://simpleicons.org/icons/styledcomponents.svg) Styled Components  
+ -->
